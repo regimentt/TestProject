@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        String hello = ("Hello, world!");
-        System.out.println(hello);
-        System.out.println(hello.length());
+        String intro = ("Hello, world!");
+        System.out.println(intro);
+        System.out.println(intro.length());
     }
 }
 
